@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋 My name is Nishant </h1>
 <h3 class="string" align="center">Aspiring MERN Stack developer</h3>
 
+<img src='https://komarev.com/ghpvc/?username=NishantAsnani&style=for-the-badge&theme=dark'/>
+<img src='https://github-profile-trophy.vercel.app/?username=NishantAsnani&theme=oldie'/>
+
 - 🌍 I'm based in **India**
 - ✉️ You can contact me at [asnaninishant2@gmail.com](mailto:asnaninishant2@gmail.com)
 - 🧠 I'm learning **Redux**
 - 🤝 I'm open to collaborating on **MERN Stack Projetcs**
 - ⚡ I like to Watch Anime
 
-
-
-<img src='https://komarev.com/ghpvc/?username=NishantAsnani&style=for-the-badge&theme=dark'/>
-<img src='https://github-profile-trophy.vercel.app/?username=NishantAsnani&theme=oldie'/>
 <h2>Skills</h2>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="40" width="40" alt="C"/></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="40" width="40" alt="C++"/></a>
