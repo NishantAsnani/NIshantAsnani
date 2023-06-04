@@ -26,9 +26,7 @@
 <a href="https://expressjs.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="40" width="40" alt="Express"/></a>
 <a href="https://www.mongodb.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" width="40" alt="MongoDB"/></a>
 <h2>Social</h2>
-<a href="https://www.github.com/NishantAsnani" target="_blank" ><img src="https://www.profileme.dev/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielcranney%2Freadme-generator%2Fmain%2Fpublic%2Ficons%2Fsocials%2Fgithub-dark.svg&w=32&q=75" height="40" width="40" alt="github"/></a>
-<a href="https://www.linkedin.com/in/nishant-asnani-aa6093208" target="_blank" ><img src="https://www.profileme.dev/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielcranney%2Freadme-generator%2Fmain%2Fpublic%2Ficons%2Fsocials%2Flinkedin.svg&w=32&q=75" height="40" width="40" alt="linkedin"/></a>
-<a href="http://www.instagram.com/asnaninishant" target="_blank" ><img src="https://www.profileme.dev/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielcranney%2Freadme-generator%2Fmain%2Fpublic%2Ficons%2Fsocials%2Finstagram.svg&w=32&q=75" height="40" width="40" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/nishant-asnani-aa6093208" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
 <h2>Badges</h2>
 <img src='https://github-readme-stats.vercel.app/api?username=NishantAsnani&show_icons=true&theme=dark'/>
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=NishantAsnani&theme=dark'/>
